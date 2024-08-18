@@ -2,10 +2,10 @@
 
 Esta es una aplicación de calculadora de divisas simple desarrollada en Python utilizando POO.
 
-**Asignatura:** Desarrollo Web 1
-**TSU:** Desarrollo de Software de Código Abierto
-**Nombres:** Aquí van tus nombres
-**Apellidos:** Aquí van tus apellidos
+**Asignatura:** Lenguajes de programacion
+**TSU:** Servicios en la nube
+**Nombres:** Raúl Alejandro
+**Apellidos:** Romero Durán
 
 ## Requisitos
 
